@@ -1,0 +1,39 @@
+Nombre: Josue Aguirre
+Matricula: 1278863
+Calificaciones:
+86.0
+91.0
+81.0
+91.0
+78.0
+97.0
+87.0
+Promedio: 87.28571
+
+
+Nombre: Rogelio Zepeda
+Matricula: 1266504
+Calificaciones:
+74.0
+86.0
+86.0
+99.0
+67.0
+77.0
+99.0
+Promedio: 84.0
+
+
+Nombre: Cesar Lopez
+Matricula: 1272041
+Calificaciones:
+97.0
+78.0
+78.0
+98.0
+67.0
+58.0
+58.0
+Promedio: 76.28571
+
+
